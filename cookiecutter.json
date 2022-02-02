@@ -1,13 +1,6 @@
 {
-  "project_name": "my streamlit app",
+  "project_name": "day_xx",
   "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
   "author_name": "Ahmed BESBES",
-  "description": "A short description of the project.",
-  "open_source_license": ["MIT", "BSD-3-Clause", "No license file"],
-  "s3_bucket": "",
-  "aws_profile": "default",
-  "python_interpreter": ["python3", "python"],
-  "host": "localhost",
-  "port": 8501,
-  "api_key": "XXXXXXXXXXXX"
+  "description": "A short description of the project."
 }
